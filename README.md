@@ -1,16 +1,21 @@
-# React + Vite
+You can use this as the README / Notes / LinkedIn preparation text for your Movie Search App project:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎬 Movie Search App (IMDb Style)
 
-Currently, two official plugins are available:
+A React-based Movie Search Application that allows users to search movies using the OMDb API and view detailed information such as poster, year, genre, runtime, director, actors, plot, and ratings.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Features
+Search movies by title
+Fetch data from OMDb API
+Display movie posters and basic details
+View complete movie information on a separate page
+Dynamic Routing using React Router
+Responsive UI
+Error handling for invalid searches
+🛠 Technologies Used
+React JS
+Vite
+Axios
+React Router DOM
+OMDb API
+CSS
