@@ -111,7 +111,7 @@ npm run dev
 
 Open:
 
-http://localhost:5173
+https://abelshaji3-boop.github.io/movie_search/
 
 ## 🎯 What I Learned
 
