@@ -109,9 +109,7 @@ Applied CSS for:
 
 npm run dev
 
-Open:
 
-https://abelshaji3-boop.github.io/movie_search/
 
 ## 🎯 What I Learned
 
