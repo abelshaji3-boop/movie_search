@@ -19,3 +19,6 @@ Axios
 React Router DOM
 OMDb API
 CSS
+
+
+img[]
